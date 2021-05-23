@@ -1,5 +1,5 @@
 ### Hi there 👋
-✨ I build useful tools with the help of A.I. ✨
+✨ I build useful shit with the help of A.I. ✨
 
 ---
 
