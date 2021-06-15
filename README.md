@@ -5,7 +5,8 @@
 
 Email: alantessier.cr@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alantess&hide=contribs,prs)
+![Alans's GitHub stats](https://github-readme-stats.vercel.app/api?username=alantess&hide=contribs,prs&theme=radical)
+
 
 <!--
 **alantess/alantess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
